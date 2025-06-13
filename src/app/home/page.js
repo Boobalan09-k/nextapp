@@ -3,6 +3,7 @@ export default function Home() {
     <div>
       Home
       <div>hi arunkumar</div>
+      <div>hi aakash</div>
     </div>
   );
 }
